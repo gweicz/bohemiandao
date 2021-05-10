@@ -6,6 +6,10 @@
 * [Příručka člena](navody/README.md)
   * [Identifikace člena](navody/identifikace-clena.md)
   * [Odchod z DAO \(ragequit\)](navody/odchod-z-dao-ragequit.md)
+
+## Nástroje
+
+* [Fórum](https://forum.gwei.cz/c/bohemiandao/50)
 * [Snapshot rozhraní](https://snapshot.org/#/bohemiandao.eth)
 * [DAO rozhraní](https://app.daohaus.club/dao/0x64/0xf762ace2c215fdad031b33c656982718c4084786)
 
