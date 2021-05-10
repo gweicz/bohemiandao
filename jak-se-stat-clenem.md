@@ -29,5 +29,5 @@ Pokud zadáte špatný počet shares vůči vložené hodnotě, bude váš návr
    5. Odešlete transakci pomocí _Submit_
 4. Hotovo! Nyní je váš návrh ve frontě ke zpracování
 
-![P&#x159;&#xED;klad Membership Proposal](.gitbook/assets/membership-proposal.png)
+![P&#x159;&#xED;klad Membership Proposal](.gitbook/assets/membership-proposal-screen.png)
 
