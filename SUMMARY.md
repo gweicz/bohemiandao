@@ -1,10 +1,13 @@
 # Table of contents
 
-* [Co je BohemianDAO?](README.md)
+* [BohemianDAO](README.md)
 * [Manifesto](manifesto.md)
 * [Jak se stát členem?](jak-se-stat-clenem.md)
-* [DAO rozhraní](https://app.daohaus.club/dao/0x64/0xf762ace2c215fdad031b33c656982718c4084786)
+* [Příručka člena](navody/README.md)
+  * [Identifikace člena](navody/identifikace-clena.md)
+  * [Odchod z DAO \(ragequit\)](navody/odchod-z-dao-ragequit.md)
 * [Snapshot rozhraní](https://snapshot.org/#/bohemiandao.eth)
+* [DAO rozhraní](https://app.daohaus.club/dao/0x64/0xf762ace2c215fdad031b33c656982718c4084786)
 
 ## Sledujte nás
 

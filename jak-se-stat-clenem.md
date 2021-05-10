@@ -1,5 +1,5 @@
 ---
-description: Co dělat pokud máte zájem stát se členem naší decentralizované organizace
+description: Máte zájem se přidat?
 ---
 
 # Jak se stát členem?
@@ -17,7 +17,7 @@ Stačí vytvořit nový členský návrh \(_Member Proposal_\) v našem [DAO roz
 Pokud zadáte špatný počet shares vůči vložené hodnotě, bude váš návrh zamítnut a váš vklad navrácen.
 {% endhint %}
 
-## **Postup**
+## **Postup jak se připojit do DAO**
 
 1. Převeďte si WETH na xDai blockchain
 2. Obstarejte si XDAI tokeny na placení transakčních poplatků

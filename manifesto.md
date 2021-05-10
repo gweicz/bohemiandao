@@ -1,3 +1,7 @@
+---
+description: Naše vize a poslání
+---
+
 # Manifesto
 
 Myslíme si, že informace o Ethereu a DeFi v češtině \(či slovenštině\), případně lokální projekty, které by se na tento segment nových _svobodných programovatelných peněz_ zaměřovali, jsou _nedostatkové zboží_. Proto jsme se rozhodli, že se pokusíme vývoj podobných projektů _akcelerovat_ a vytvořit _neziskový_ fond, který by jim mohl pomáhat finančně formou dotací \(grantů\).
