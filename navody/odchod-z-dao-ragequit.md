@@ -1,5 +1,5 @@
 ---
-description: Pokud se naše cesty či vize rozejdou
+description: Pokud se naše cesty rozejdou
 ---
 
 # Odchod z DAO \(ragequit\)

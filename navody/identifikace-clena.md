@@ -12,7 +12,7 @@ Vytvoření profilu na 3Box je velmi snadné a **zdarma**. Vaše údaje budou ul
 Vytvoření profilu je dobrovolné - pokud tedy chcete zůstat naprosto anonymní, tak můžete. Počítejte ale s tím, že to může komplikovat komunikaci s vámi a vaší důveryhodnost mezi členy, takže doporučujeme doplnit alespoň váš pseudonym.
 {% endhint %}
 
-## Jak si vytvořit \(a doplnit\) 3Box profil?
+## Postup pro vytvoření \(a doplnění\) 3Box profilu
 
 1. Jděte na stránku [https://3box.io/login](https://3box.io/login) a přihlašte se pomocí vaší členské Ethereum adresy
 2. Podepište zprávy o vytvoření vašeho profilu pomocí vaší peněženky

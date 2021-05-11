@@ -8,8 +8,6 @@ Nezisková _Decentralizovaná autonomní organizace_ \(DAO\), vytvořená za ú�
 
 {% page-ref page="manifesto.md" %}
 
-{% page-ref page="jak-se-stat-clenem.md" %}
-
 ## Kde nás můžete sledovat?
 
 * Twitter - [@BohemianDAO](https://twitter.com/BohemianDAO)

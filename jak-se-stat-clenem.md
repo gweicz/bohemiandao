@@ -1,10 +1,10 @@
 ---
-description: Máte zájem se přidat?
+description: Buďte součástí naší komunity
 ---
 
 # Jak se stát členem?
 
-Členem BohemianDAO se může stát každý!
+**Členem BohemianDAO se může stát každý!**
 
 Stačí vytvořit nový členský návrh \(_Member Proposal_\) v našem [DAO rozhraní](https://app.daohaus.club/dao/0x64/0xf762ace2c215fdad031b33c656982718c4084786/proposals/new), kde zažádáte o požadovaný podíl \(_shares_\) a vložíte váš odpovídající vklad \(_tribute_\) v Etheru, resp. Wrapped Etheru.
 
