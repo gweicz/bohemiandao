@@ -19,8 +19,8 @@ Pokud zadáte špatný počet shares vůči vložené hodnotě, bude váš návr
 
 ## **Postup jak se připojit do DAO**
 
-1. Převeďte si WETH na xDai blockchain
-2. Obstarejte si XDAI tokeny na placení transakčních poplatků
+1. [Převeďte si WETH na xDai blockchain](navody/xdai-blockchain.md#prevod-etheru-eth-na-xdai)
+2. [Obstarejte si XDAI tokeny na placení transakčních poplatků](navody/xdai-blockchain.md#jak-ziskat-xdai-na-transakcni-poplatky)
 3. Vytvořte Membership Proposal v našem [DAO rozhraní](https://app.daohaus.club/dao/0x64/0xf762ace2c215fdad031b33c656982718c4084786/proposals/new):
    1. Jako název návrhu uveďte "Novy clen - @VasNick"
    2. Do "_Shares Requested_" vyplňte požadovaný podíl
