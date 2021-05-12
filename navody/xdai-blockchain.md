@@ -59,9 +59,9 @@ Jelikož je zbytečné ztratit desítky či stovky dolarů na transakčních pop
 
 #### Důvěryhodní lidé, kteří můžou zprostředkovat směnu
 
-| Jméno | [Discord](https://chat.gwei.cz) | [Fórum](https://forum.gwei.cz) | Keybase | Email | ETH adresa pro vklad |
+| Jméno | [Discord](https://chat.gwei.cz) | [Fórum](https://forum.gwei.cz) | Keybase | Email | ETH adresa |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **tree** | tree\#7466 | [tree](https://forum.gwei.cz/u/tree) | [tree](https://keybase.io/tree) | [tree@hidden.cz](mailto:tree@hidden.cz) | [bohemiandao.eth](https://etherscan.io/address/bohemiandao.eth) |
+| **tree** | tree\#7466 | [tree](https://forum.gwei.cz/u/tree) | [tree](https://keybase.io/tree) | [tree@hidden.cz](mailto:tree@hidden.cz) | [treecz.gweicz.eth](https://etherscan.io/address/tree.gweicz.eth) |
 
 #### Postup pro P2P směnu
 
