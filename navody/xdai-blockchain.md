@@ -1,5 +1,5 @@
 ---
-description: 'Ethereum sidechain, na kterých BDAO běží'
+description: 'Ethereum sidechain, na kterém BohemianDAO běží'
 ---
 
 # xDai blockchain
