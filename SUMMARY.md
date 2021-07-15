@@ -18,6 +18,7 @@
   * [Identifikace člena](navody/identifikace-clena.md)
   * [Odchod z DAO \(ragequit\)](navody/odchod-z-dao-ragequit.md)
 * [Media kit](media-kit.md)
+* [Kontakt](kontakt.md)
 
 ## Sledujte nás
 
