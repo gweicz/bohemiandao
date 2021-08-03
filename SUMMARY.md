@@ -3,6 +3,7 @@
 * [BohemianDAO](README.md)
 * [Manifesto](manifesto.md)
 * [Podpořené projekty](podporene-projekty.md)
+* [Technické informace](technicke-informace.md)
 * [Seznam členů](seznam-clenu.md)
 * [Jak se stát členem?](jak-se-stat-clenem.md)
 * [Nástroje](nastroje/README.md)
