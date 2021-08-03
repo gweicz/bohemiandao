@@ -10,7 +10,7 @@ description: Základní parametry
   * Smart-kontrakty: [Moloch](navody/moloch.md)
   * Webové rozhraní: [DAOhaus](navody/dao-rozhrani.md)
 
-## Interní nastavení
+## [Moloch](navody/moloch.md) parametry
 
 * Transakční token: **WXDAI**
 * Treasury token: **WETH** \([Wrapper Ether](https://weth.io/)\)
@@ -20,7 +20,9 @@ description: Základní parametry
 * Období pro [ragequit](navody/odchod-z-dao-ragequit.md) \(grace period\): **3 dny**
 * Maximum proposal velocity: **24 návrhů za den**
 
+## DAO pravidla
 
+* 1 share = 0.1 WETH
 
 
 
