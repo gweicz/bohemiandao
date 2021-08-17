@@ -4,6 +4,7 @@ description: Základní parametry
 
 # Technické informace
 
+* Vznik DAO: **19.4.2021**
 * Blockchain: [**xDai**](navody/xdai-blockchain.md) \(Ethereum-kompatibilní sidechain\)
 * DAO adresa: [**0xf762ace2c215fdad031b33c656982718c4084786**](https://blockscout.com/xdai/mainnet/address/0xF762aCE2c215fDad031B33c656982718c4084786/transactions)\*\*\*\*
 * Platforma:
