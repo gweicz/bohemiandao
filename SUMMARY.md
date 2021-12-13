@@ -10,24 +10,24 @@
   * [DAO rozhraní](https://app.daohaus.club/dao/0x64/0xf762ace2c215fdad031b33c656982718c4084786)
   * [Snapshot](https://snapshot.org/#/bohemiandao.eth)
   * [Fórum](https://forum.gwei.cz/c/bohemiandao/50)
-  * [Discord \(\#bohemiandao\)](https://chat.gwei.cz/)
+  * [Discord (#bohemiandao)](https://chat.gwei.cz)
 * [Příručka člena](navody/README.md)
   * [xDai blockchain](navody/xdai-blockchain.md)
   * [Moloch framework](navody/moloch.md)
   * [DAO rozhraní](navody/dao-rozhrani.md)
   * [Snapshot rozhraní](navody/snapshot-rozhrani.md)
   * [Identifikace člena](navody/identifikace-clena.md)
-  * [Odchod z DAO \(ragequit\)](navody/odchod-z-dao-ragequit.md)
+  * [Odchod z DAO (ragequit)](navody/odchod-z-dao-ragequit.md)
 * [Media kit](media-kit.md)
 * [Kontakt](kontakt.md)
 
 ## Sledujte nás
 
 * [Twitter](https://twitter.com/BohemianDAO)
+* [Instagram](https://www.instagram.com/bohemiandao/)
 
 ## Partneři
 
----
+***
 
 * [Gwei.cz](https://gwei.cz)
-

@@ -8,7 +8,7 @@ description: Logo a další propagační materiály
 
 ### Logo transparentní
 
-{% file src=".gitbook/assets/logo-transparent.png" caption="" %}
+{% file src=".gitbook/assets/logo-transparent.png" %}
 
 ![](.gitbook/assets/logo-transparent.png)
 
@@ -17,6 +17,4 @@ description: Logo a další propagační materiály
 {% file src=".gitbook/assets/logo-with-text.png" %}
 
 ![](.gitbook/assets/logo-with-text.png)
-
-
 
